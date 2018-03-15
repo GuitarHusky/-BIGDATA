@@ -1,6 +1,10 @@
 # hello
 
-> ceshiiview
+> 使用vue搭建项目
+>
+> 使用iviewUI框架作为整体项目样式
+>
+> 主要为数据的展示
 
 ## Build Setup
 
